@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img {
+    height: auto;
+    width: 30%;
+}
+.inp {
+    width: 120%;
+    border-radius: 30px;
+    padding: 7px 15px;
+}
+.bttn {
+    width: 50%;
+    border-radius: 30px;
+    border-radius: 30px;
+    color: black;
+    border: none;
+    background-color: #d4d4d4;
+    font-size: 14px;
+    font-weight: 600;
+}
+.bttns {
+    width: 45%;
+    border-radius: 30px;
+    color: #FFFFFF;
+    background-color: #FF3D71;
+    border: none;
+    font-size: 15px;
+}
+.menus a {
+    text-decoration: none;
+    color: black;
+    padding: 0px 15px;
+    font-size: 14px;
+}
+.bsn {
+    color: #FFFFFF;
+    background-color: rgb(246, 68, 95);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsn:hover {
+    background-color: rgb(246, 68, 95);
+    color: #FFFFFF;
+}
+.bsns {
+    background-color: violet;
+    color: #FFFFFF;
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsns:hover {
+    background-color: violet;
+    color: #FFFFFF;
+}
+.bsn-s {
+    color: #FFFFFF;
+    background-color: rgb(8, 189, 135);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsn-s:hover {
+    background-color: rgb(8, 189, 135);
+    color: #FFFFFF;
+}
+.bs-ns {
+    color: #FFFFFF;
+    background-color: rgb(19, 170, 19);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bs-ns:hover {
+    background-color: rgb(19, 170, 19);
+    color: #FFFFFF;
+}
