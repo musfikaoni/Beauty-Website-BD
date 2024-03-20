@@ -128,3 +128,7 @@
     border-radius: 4px;
 }
 /* Concern section end */
+.immg img {
+    height: 35vh;
+    width: 100%;
+}
