@@ -9,7 +9,7 @@
 .inp {
     width: 120%;
     border-radius: 30px;
-    padding: 7px 15px;
+    padding: 2px 15px;
 }
 .bttn {
     width: 50%;
@@ -79,3 +79,22 @@
     background-color: rgb(19, 170, 19);
     color: #FFFFFF;
 }
+.imege img {
+    height: 120px;
+    width: 100%;
+}
+.imeg img {
+    height: 80px;
+    width: 100%;
+}
+/* product section start */
+.prtimg {
+    padding-left: 10px
+}
+.prtimg img {
+    height: 270px;
+    width: 270px;
+    margin-left: -38px;
+    border-radius: 7px;
+}
+/* product section end */
