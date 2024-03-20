@@ -114,3 +114,10 @@
     margin-right: 10px;
 }
 /* brand section end */
+/* products category start */
+.ctrimg img {
+    height: 250px;
+    width: 102%;
+    border-radius: 4px;
+}
+/* products category end */
