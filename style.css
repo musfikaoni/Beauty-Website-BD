@@ -98,3 +98,19 @@
     border-radius: 7px;
 }
 /* product section end */
+.carr {
+    margin-top: 120px;
+}
+/* brand section start */
+.bndimg img {
+    height: 25vh;
+    width: 103%;
+    border-radius: 10px;
+}
+.bnd {
+    margin-left: 10px;
+}
+.bnds {
+    margin-right: 10px;
+}
+/* brand section end */
