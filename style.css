@@ -7,19 +7,21 @@
     width: 30%;
 }
 .inp {
-    width: 120%;
+    width: 100%;
     border-radius: 30px;
-    padding: 2px 15px;
+    padding: 5px 115px 5px 15px;
+    border: 2px solid #e66c8c;
+    background-color: rgb(249, 249, 249);
 }
 .bttn {
     width: 50%;
     border-radius: 30px;
-    border-radius: 30px;
     color: black;
     border: none;
     background-color: #d4d4d4;
-    font-size: 14px;
+    font-size: 11px;
     font-weight: 600;
+    margin-left: 15px;
 }
 .bttns {
     width: 45%;
@@ -27,13 +29,22 @@
     color: #FFFFFF;
     background-color: #FF3D71;
     border: none;
-    font-size: 15px;
+    font-size: 11px;
+}
+.llin {
+    height: 1px;
+    width: 100%;
+    background-color: rgb(217, 217, 217);
+    margin-top: 10px;
 }
 .menus a {
     text-decoration: none;
     color: black;
     padding: 0px 15px;
     font-size: 14px;
+}
+.menus a:hover {
+    color: #FF3D71;
 }
 .bsn {
     color: #FFFFFF;
@@ -149,4 +160,47 @@
     transition: .6s;
     background-color: #f83166;
 }
+.txx {
+    color: #FF3D71;
+}
 /* product carousel end */
+/* footer start */
+.lastimg {
+    background-color: #5C0F8B;
+}
+.lastimg img {
+    width: 100%;
+}
+.lasst {
+    background-color: #192038;
+    height: 90vh;
+}
+.laico i {
+    color: #FFFFFF;
+    border: 2px solid rgb(206, 206, 206);
+    font-size: 18px;
+    padding: 4px 5px;
+    border-radius: 50px;
+}
+.fttx img {
+    margin-left: -20px;
+}
+.tax a {
+    text-decoration: none;
+    color: rgb(207, 207, 207);
+    text-transform: uppercase;
+    line-height: 28px;
+    font-size: 15px;
+    word-spacing: 4px;
+}
+.tax a:hover {
+    color: #FF3D71;
+}
+.txh {
+    color: #FF3D71;
+    text-transform: uppercase;
+}
+.lsp {
+    color: rgb(207, 207, 207);
+}
+/* footer end */
